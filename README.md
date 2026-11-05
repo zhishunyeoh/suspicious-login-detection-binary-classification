@@ -1,4 +1,4 @@
-Suspicious Login Detection — Binary Classification
+Network Intrusion Detection – Binary Classification (NSL-KDD)
 
 Overview
 
